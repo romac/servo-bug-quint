@@ -1,3 +1,5 @@
+// -*- mode: Bluespec; -*-
+
 // https://medium.com/@polyglot_factotum/re-fixing-servos-event-loop-e00bdf267385
 
 module Broken {
